@@ -17,7 +17,9 @@ echo "Creating a Hardhat project..."
 npx hardhat
 
 rm -f contracts/Lock.sol
-echo "Lock.sol removed."
+echo "Lock.sol removed."Siba
+
+
 
 echo "Hardhat project created."
 
